@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>  
   <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="-Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="-Rust" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
   <img align="center" alt="-PHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
 </div>
 
@@ -22,7 +22,7 @@
 <div>
   <a href="mailto:josue.fa2010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jf-ar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/jrjosuue"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jrjosuue"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/JF-Ar/JF-Ar/blob/output/github-contribution-grid-snake.svg)
   
