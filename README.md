@@ -1,8 +1,8 @@
 ## 👋 Alô, aqui é @JF-Ar, cujo nome é Josué Junio
-Um desenvolvedor autodidata apaixonado por aprender e explorar novas tecnologias. <br> Recentemente, me aventurei no mundo da programação com Rust e estou animado para compartilhar meus projetos e descobertas com vocês.
+Um desenvolvedor autodidata apaixonado por aprender e explorar novas tecnologias. <br> Estou animado para compartilhar meus projetos e descobertas com vocês.
 - 🌱 Atualmente estudando.
 ##   👋 Hi, I’m @JF-Ar
-A self-taught developer passionate about learning and exploring new technologies. <br> Recently, I ventured into the world of Rust programming and I am excited to share my projects and discoveries with you.
+A self-taught developer passionate about learning and exploring new technologies. <br> I am excited to share my projects and discoveries with you.
 - 🌱 I'm always learning.
 <br>
 
