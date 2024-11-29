@@ -50,10 +50,12 @@ A self-taught developer passionate about learning and exploring new technologies
 - **PHP e Laravel**: Com experiência em desenvolvimento Full Stack, criei e mantive diversas aplicações web, sempre buscando melhorar a segurança e a performance.
 - **Python e Django**: Utilizei essas tecnologias em projetos de scraping e processamento de dados, aplicando boas práticas de automação e eficiência.
 - **AWS, Terraform e Ansible**: Tenho experiência em provisionamento e automação de infraestrutura, garantindo ambientes estáveis e escaláveis para aplicações.
+- **Golang**: Experiência no desenvolvimento de APIs de alto desempenho, utilizando filas, ponteiros e recursos avançados da linguagem para garantir escalabilidade e eficiência.
 ## My Skills
 - **Rust**: I am delving into this powerful and safe language, leveraging its advantages to create efficient and high-performance projects.
 - **PHP and Laravel**: With experience in Full Stack development, I have created and maintained various web applications, always seeking to improve security and performance.
 - **Python and Django**: I used these technologies in scraping and data processing projects, applying good practices of automation and efficiency.
 - **AWS, Terraform, and Ansible**: I have experience in provisioning and automating infrastructure, ensuring stable and scalable environments for applications.
+- **Golang**: Experience in developing high-performance APIs, utilizing queues, pointers, and advanced language features to ensure scalability and efficiency. 
   
   
