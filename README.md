@@ -6,11 +6,11 @@ A self-taught developer passionate about learning and exploring new technologies
 - 🌱 I'm always learning.
 <br>
 
-<div>
+<div aling="center">
   <a href="https://github.com/JF-Ar">
-  <p>
-    <img aling="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jf-ar&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  </p>
+  <div aling="center">
+    <img aling="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jf-ar&show_icons=true&theme=dark&include_all_commits=true&count_private=false&mode=weekly"/>
+  </div>
 </div>
 
 <div style="display: inline_block"><br>  
